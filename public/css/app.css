@@ -392,8 +392,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -1274,8 +1273,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -1407,8 +1405,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -1565,8 +1562,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -1943,8 +1939,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -2102,8 +2097,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -2207,8 +2201,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -2928,8 +2921,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -3219,8 +3211,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -3490,8 +3481,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -3829,8 +3819,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -3980,8 +3969,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -4106,8 +4094,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -4211,8 +4198,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -4886,8 +4872,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -5138,8 +5123,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -5258,8 +5242,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -5518,8 +5501,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -5636,8 +5618,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -5775,8 +5756,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -5892,8 +5872,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -6056,7 +6035,7 @@ select {
     left: 10px;
     font-size: 12px;
     color: #FFFFFF;
-    background: transparent;
+    background: rgba(0, 0, 0, 0);
     z-index: 10; }
     .orbit-container .orbit-slide-number span {
       font-weight: 700;
@@ -6233,8 +6212,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -6388,8 +6366,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -6539,8 +6516,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -6690,8 +6666,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -6827,8 +6802,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -7011,8 +6985,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -7116,8 +7089,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -8130,8 +8102,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -8270,8 +8241,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -8375,8 +8345,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -8666,8 +8635,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -8899,8 +8867,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -9047,8 +9014,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -9249,8 +9215,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -9397,8 +9362,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -9502,8 +9466,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -10466,8 +10429,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -10584,8 +10546,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -10766,8 +10727,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -10871,8 +10831,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -11753,8 +11712,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -12044,8 +12002,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -12149,8 +12106,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -13316,8 +13272,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -13844,8 +13799,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -13949,8 +13903,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
@@ -14630,7 +14583,7 @@ ul.off-canvas-list {
   left: 0;
   right: 0;
   z-index: 1002;
-  -webkit-tap-highlight-color: transparent; }
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
   @media only screen and (min-width: 40.063em) {
     .move-right .exit-off-canvas:hover {
       background: rgba(255, 255, 255, 0.05); } }
@@ -14656,7 +14609,7 @@ ul.off-canvas-list {
   left: 0;
   right: 0;
   z-index: 1002;
-  -webkit-tap-highlight-color: transparent; }
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
   @media only screen and (min-width: 40.063em) {
     .move-left .exit-off-canvas:hover {
       background: rgba(255, 255, 255, 0.05); } }
@@ -14682,7 +14635,7 @@ ul.off-canvas-list {
   left: 0;
   right: 0;
   z-index: 1002;
-  -webkit-tap-highlight-color: transparent; }
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
   @media only screen and (min-width: 40.063em) {
     .offcanvas-overlap .exit-off-canvas:hover {
       background: rgba(255, 255, 255, 0.05); } }
@@ -14708,7 +14661,7 @@ ul.off-canvas-list {
   left: 0;
   right: 0;
   z-index: 1002;
-  -webkit-tap-highlight-color: transparent; }
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
   @media only screen and (min-width: 40.063em) {
     .offcanvas-overlap-left .exit-off-canvas:hover {
       background: rgba(255, 255, 255, 0.05); } }
@@ -14734,7 +14687,7 @@ ul.off-canvas-list {
   left: 0;
   right: 0;
   z-index: 1002;
-  -webkit-tap-highlight-color: transparent; }
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
   @media only screen and (min-width: 40.063em) {
     .offcanvas-overlap-right .exit-off-canvas:hover {
       background: rgba(255, 255, 255, 0.05); } }
@@ -14901,8 +14854,7 @@ html, body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-html,
-body {
+html, body {
   font-size: 100%; }
 
 body {
